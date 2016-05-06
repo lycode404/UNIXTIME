@@ -1,0 +1,8 @@
+J:\c#资料\c#作品\开发中\UNIXTIME\UNIXTIME\bin\Debug\UNIXTIME.exe
+J:\c#资料\c#作品\开发中\UNIXTIME\UNIXTIME\bin\Debug\UNIXTIME.pdb
+J:\c#资料\c#作品\开发中\UNIXTIME\UNIXTIME\obj\Debug\UNIXTIME.csprojResolveAssemblyReference.cache
+J:\c#资料\c#作品\开发中\UNIXTIME\UNIXTIME\obj\Debug\UNIXTIME.Form1.resources
+J:\c#资料\c#作品\开发中\UNIXTIME\UNIXTIME\obj\Debug\UNIXTIME.Properties.Resources.resources
+J:\c#资料\c#作品\开发中\UNIXTIME\UNIXTIME\obj\Debug\UNIXTIME.csproj.GenerateResource.Cache
+J:\c#资料\c#作品\开发中\UNIXTIME\UNIXTIME\obj\Debug\UNIXTIME.exe
+J:\c#资料\c#作品\开发中\UNIXTIME\UNIXTIME\obj\Debug\UNIXTIME.pdb
